@@ -26,5 +26,6 @@ public class HelloServlet extends HttpServlet {
 
     @Override
     public void destroy() {
+//        xxx
     }
 }
